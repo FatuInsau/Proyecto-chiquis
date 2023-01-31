@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+  }
+
+  .box {
+    background-color: aquamarine;
+    width: 20 px;
+    height: 20px;
+  }
